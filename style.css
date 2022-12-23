@@ -335,8 +335,9 @@ h2{
     }
 
     .h1{
-        font-size: 30px;
+        font-size: 60px;
         margin-left: 30px;
+        text-align:center;
     }
     .orange{
         margin-left: 30px;
@@ -347,12 +348,13 @@ h2{
     .blue{
         display: none;
     }
-
+.pp{
+    font-size:40;
     
 
     .ppclass{
         margin-top: 50px;
-        margin-left: 10px;
+        margin-left: 60px;
         position: absolute;
     }
 
@@ -366,19 +368,19 @@ h2{
     }
 
     .card1{
-        width:320px;
+        width:380px;
         height: 510px;
         margin-left: 8px;
     }
 
     #imgc{
-        width:320px;
+        width:380px;
         margin-left: 8px;
          max-width:320px;
     }
 
     .card2{
-        width: 320px;
+        width: 380px;
         margin-left: 8px;
         height: 600px;
          max-width:320px;
@@ -432,6 +434,8 @@ h2{
     .ppp{
         margin-left:5px ;
         max-width: 320px;
+        font-size:40px;
+        text-align:center;
     }
 
     #footer{
