@@ -323,8 +323,8 @@ h2{
     }
 
     #img1{
-       width:220px;
-       height: 220px;
+       width:270px;
+       height: 270px;
        margin-left: 15px;
        border-radius: 50%;
     }
@@ -336,7 +336,7 @@ h2{
 
     .h1{
         font-size: 30px;
-        margin-left: 10px;
+        margin-left: 30px;
     }
     .orange{
         margin-left: 30px;
@@ -366,25 +366,25 @@ h2{
     }
 
     .card1{
-        width:270px;
+        width:340px;
         height: 510px;
         margin-left: 8px;
     }
 
     #imgc{
-        width:270px;
+        width:340px;
         margin-left: 8px;
     }
 
     .card2{
-        width: 270px;
+        width: 340px;
         margin-left: 8px;
         height: 600px;
 
     }
 
     .card3{
-        width: 270px;
+        width: 340px;
         margin-left: 8px;
         height: 500px;
         padding-top: 100px;
@@ -399,7 +399,7 @@ h2{
     }
 
     .imgc{
-        margin-top: 100px;
+        margin-top: 200px;
     }
 
     #page2{
@@ -432,7 +432,7 @@ h2{
     }
 
     #footer{
-        width:300px;
+        width:350px;
         height: 50vh;
     }
 
