@@ -325,11 +325,11 @@ h2{
     #img1{
        width:270px;
        height: 270px;
-       margin-left: 15px;
+       margin-left: 22px;
        border-radius: 50%;
     }
     .Text1{
-        margin-left: 6px;
+        margin-left: 20px;
         background: white;
         margin-top: -30px;
     }
@@ -352,7 +352,7 @@ h2{
 
     .ppclass{
         margin-top: 50px;
-        margin-left: 0px;
+        margin-left: 10px;
         position: absolute;
     }
 
@@ -366,28 +366,31 @@ h2{
     }
 
     .card1{
-        width:340px;
+        width:320px;
         height: 510px;
         margin-left: 8px;
     }
 
     #imgc{
-        width:340px;
+        width:320px;
         margin-left: 8px;
+         max-width:320px;
     }
 
     .card2{
-        width: 340px;
+        width: 320px;
         margin-left: 8px;
         height: 600px;
+         max-width:320px;
 
     }
 
     .card3{
-        width: 340px;
+        width: 320px;
         margin-left: 8px;
         height: 500px;
         padding-top: 100px;
+        max-width:320px;
       
     }
 
@@ -411,7 +414,7 @@ h2{
     }
 
     #img3{
-        width:270px;
+        width:320px;
         margin-left: 13px;
         float: left;
 
@@ -428,7 +431,7 @@ h2{
 
     .ppp{
         margin-left:5px ;
-        max-width: 270px;
+        max-width: 320px;
     }
 
     #footer{
